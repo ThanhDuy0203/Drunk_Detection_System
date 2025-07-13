@@ -36,8 +36,8 @@ This project provides the following core functionalities:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/drunk-driver-detection.git
-cd drunk-driver-detection
+git clone https://https://github.com/ThanhDuy0203/Drunk_Detection_System.git
+cd Drunk_Detection_System
 ```
 
 ### 2.Install dependencies
