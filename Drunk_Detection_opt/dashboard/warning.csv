@@ -1,0 +1,12 @@
+time,driver_id,driver_name,vehicle_plate,mq3_value,photo_path
+2025-04-08 14:30:00,TX001,Nguyen Van A,51A-12345,420,driver1.jpg
+2025-04-08 14:35:00,TX002,Le Thi B,60B-67890,523,driver2.jpg
+2025-04-08 14:40:00,TX003,Tran Van C,29C-11111,415,driver3.jpg
+2025-04-08 14:45:00,TX004,Pham Thi D,79D-22222,652,driver4.jpg
+2025-04-08 14:45:00,TX005,Phan Thanh D,79D-22222,652,driver5.jpg
+2025-04-08 14:50:00,TX006,Vo Minh E,30A-99999,478,driver6.jpg
+2025-04-08 14:55:00,TX007,Nguyen Thi F,72C-88888,491,driver7.jpg
+2025-04-08 15:00:00,TX008,Tran Van G,51A-13579,633,driver8.jpg
+2025-04-08 15:05:00,TX009,Le Van H,50B-24680,412,driver9.jpg
+2025-04-08 15:10:00,TX010,Do Thi I,29C-98765,578,driver10.jpg
+
