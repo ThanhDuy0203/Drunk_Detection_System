@@ -5,6 +5,7 @@ This device detects intoxication from facial images integrate with MQ3 (alcohol 
 
 <p align="center">
   <img src = "./images/MQ3.png" width=700>
+  <br/>
   <em>Figure 1: Workflow</em>
 </p>
 
