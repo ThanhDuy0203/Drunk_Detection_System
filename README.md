@@ -15,7 +15,7 @@ This project provides the following core functionalities:
 
 - Detects signs of intoxication from the driver's facial image using a lightweight deep learning model.
 - Triggers physical alerts such as speaker and warning light when intoxication is detected.
-- Sends real-time notifications to the user via a messaging platform (e.g., Telegram).
+- Sends real-time notifications to the user via a messaging platform.
 - Logs and manages a history of detected violations with timestamps and image evidence.
 
 
