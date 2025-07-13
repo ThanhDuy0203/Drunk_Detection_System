@@ -36,7 +36,7 @@ This project provides the following core functionalities:
 ### 1. Clone the repository
 
 ```bash
-git clone https://https://github.com/ThanhDuy0203/Drunk_Detection_System.git
+git clone https://https://github.com/pluto0203/Drunk_Detection_System.git
 cd Drunk_Detection_System
 ```
 
