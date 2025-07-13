@@ -20,11 +20,13 @@ This project provides the following core functionalities:
 
 <p align="center">
   <img src = "./images/dashboard.jpg" width=700>
+  <br/>
   <em>Figure 2: Management Dashboard</em>
 </p>
 
 <p align="center">
-  <img src = "./images/box.png" width=700>
+  <img src = "./images/box.png" width=500>
+  <br/>
   <em>Figure 3: Demo Device</em>
 </p>
 
